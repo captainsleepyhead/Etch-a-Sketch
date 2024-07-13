@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    background-color: black;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 100vh;
+}
+
+body{
+    background-color: rgb(6, 94, 129);
+    margin: 0px;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+#btn {
+    color: rgb(6, 94, 129);
+    font-size: 20px;
+    font-weight: 400;
+}
